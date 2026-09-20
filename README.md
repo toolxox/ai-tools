@@ -105,36 +105,6 @@
 * <a href="https://watermark-remover.toolxox.com/" target="_blank">Photo Watermark Remover</a>
 * <a href="https://toolxox.com/video-watermark-remover.php" target="_blank">Video Watermark Remover</a>
 
-## About ToolXoX
-
-ToolXoX brings multiple AI-powered creative tools together in one convenient online platform. Users can generate and transform images, create videos, process audio, swap faces, work with 3D models, and improve written content directly from a web browser.
-
-## AI Tool Categories
-
-* AI Image Generator
-* AI Photo Editor
-* AI Image Enhancer
-* AI Background Remover
-* AI Image Upscaler
-* AI Image Translator
-* AI Face Generator
-* AI Face Swap
-* AI Video Generator
-* AI Video Editor
-* AI Audio Generator
-* AI Music Generator
-* Text to Speech
-* AI Writing Tools
-* AI 3D Tools
-* AI Object Remover
-* AI Logo Generator
-* AI Headshot Generator
-* AI Sticker Generator
-
-## Website
-
-<a href="https://toolxox.com/" target="_blank">ToolXoX — Free Online AI Tools</a>
-
 ## Disclaimer
 
 ToolXoX is an independent online tools platform. References to third-party AI models, brands, and technologies are provided for informational and identification purposes. Tool availability and features may change over time.
